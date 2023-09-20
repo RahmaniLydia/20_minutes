@@ -1,0 +1,140 @@
+
+.content {
+    display: flex;
+
+}
+.minute {
+  margin-left:-58px;
+}
+.fm {
+  margin-left:-1%;
+  margin-top: 10%;
+}
+
+
+.paragraphe p {
+    font-family: Arial;
+    font-size: 40px;
+    margin-top: 30px;
+}
+.paragraphe p span {
+    color: navy;
+    font-weight: bold;
+}
+.bleu_minute {
+  background-color: navy;
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+  font-weight: bold;
+  width: 100%;
+  height: 30px;
+  font-size: 20px;
+
+
+}
+.txt {
+  display: flex;
+
+}
+.gauche {
+  text-align: left;
+
+}
+
+
+
+
+
+.sup {
+  font-size: 1px;
+  vertical-align: super;
+}
+.eglise p span{
+  color: navy;
+  font-weight: bold;
+}
+
+
+.milieu {
+  text-align: center;
+  vertical-align: middle;
+  margin-top: -0.5%;
+  margin-left: -28%;
+
+}
+.droite {
+  text-align: right;
+  margin-top: -3.5%;
+  margin-right: 4%;
+}
+.minute, .lise, .cham {
+  display: flex;
+
+}
+.eglise{
+  margin-top: -2%;
+  margin: -10px;
+}
+
+.cpl{
+  margin-top:2%;
+  margin-left: 1px;
+}
+.eglise p{
+  font-size: 20px;
+}
+
+
+
+
+.vertical-text p {
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+  text-align: left;
+
+  white-space: nowrap;
+  position: relative;
+  margin-top: 550px;
+  font-size: 13px;
+  margin-left: 65px;
+
+
+
+}
+.cham{
+  margin-left: 1px;
+}
+
+
+
+.bas_page{
+  display: flex;
+  margin-top: -2px;
+}
+
+.left-div {
+
+
+  width: 7%;
+  display: flex;
+  flex-direction: column;
+  float: left;
+
+}
+
+.right-div {
+  margin-left: 5%;
+  width: 80%;
+}
+
+
+.sr img {
+  margin-left: 39px;
+  margin-top: 12px;
+
+}
+
+.left-div img:first-child {
+    margin-bottom: -5px;
+}
